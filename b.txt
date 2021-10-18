@@ -1,2 +1,4 @@
 create new file
 
+
+modify b.txt on branch 'outer'
